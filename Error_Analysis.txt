@@ -1,0 +1,33 @@
+Top terms per cluster:
+
+Cluster 0 words: b'fli', b'silenc', b'dead', b'alreadi', b'wors', b'fix', b'defarg', b'admir', b'rather', b'coach',
+
+Cluster 0 authors: Herman Melville, Arthur Conan Doyle, Louisa May Alcott, Charles Dickens,
+
+Cluster 1 words: b'girl', b'execut', b'sunday', b'monsieur', b'name', b'quarter', b'impati', b'solitari', b'music', b'deserv',
+
+Cluster 1 authors: Jane Austen, Mary Wollstonecraft (Godwin) Shelley, Louisa May Alcott,
+
+Cluster 2 words: b'chief', b'comprehend', b'suit', b'shape', b'justic', b'tore', b'tumbl', b'real', b'cook', b'recommend',
+
+Cluster 2 authors: Herman Melville, Mark Twain (Samuel Clemens),
+
+Cluster 3 words: b'terror', b'embrac', b'let_go', b'dress', b'shore', b'inform', b'explain', b'earth', b'garden', b'less',
+
+Cluster 3 authors: Jane Austen, Mary Wollstonecraft (Godwin) Shelley, Charles Dickens,
+
+Cluster 4 words: b'ago', b'younger', b'note', b'don', b'possess', b'remind', b'wast', b'blood', b'free', b'sensibl',
+
+Cluster 4 authors: Jane Austen, Louisa May Alcott, Charles Dickens, Herman Melville, Arthur Conan Doyle,
+
+Cluster 5 words: b'ever', b'feel', b'said', b'yet', b'affection', b'collect', b'true', b'condit', b'merci', b'tast',
+
+Cluster 5 authors: Mary Wollstonecraft (Godwin) Shelley, Louisa May Alcott, Charles Dickens, Arthur Conan Doyle, Herman Melville,
+
+Cluster 6 words: b'grate', b'agre', b'ignor', b'clear', b'cast', b'pictur', b'grief', b'situat', b'just', b'moon',
+
+Cluster 6 authors: Herman Melville, Louisa May Alcott, Mary Wollstonecraft (Godwin) Shelley, Charles Dickens,
+
+Cluster 7 words: b'big', b'studi', b'absolut', b'supper', b'perfect', b'sell', b'ill', b'desert', b'meant', b'featur',
+
+Cluster 7 authors: Herman Melville, Mark Twain (Samuel Clemens),
